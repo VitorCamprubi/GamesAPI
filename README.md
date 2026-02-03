@@ -19,11 +19,11 @@ Inclui CRUD completo e endpoint para listar jogos por categoria.
 
 ## ▶️ Como rodar o projeto
 1. Clone o repositório:
-   ```bash
+  ```bash
    git clone https://github.com/SEU_USUARIO/GamesAPI.git
-`
+   ```
 
-   2. Entre na pasta do projeto e rode:
+2. Entre na pasta do projeto e rode:
 
    ```bash
    mvn spring-boot:run
