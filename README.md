@@ -77,12 +77,3 @@ Exemplo de body (POST/PUT):
 
 Você pode testar com **Postman** ou **Insomnia** usando os endpoints acima.
 
-## 📄 Licença
-
-Projeto de estudos (livre para usar/modificar).
-
-```
-
-Se quiser, eu também faço uma versão **mais bonita** (com badges, prints, e uma seção de “Roadmap”) e já deixo um texto pronto pro **commit inicial** e pro **nome do repositório**.
-```
-
